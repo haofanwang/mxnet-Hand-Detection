@@ -1,6 +1,6 @@
 # Hand Detection
 
-A simple implementation of heatmap regression for hand detection. We won't release pre-precessing and post-precessing code now. Free to prepare your own datasets. Again, it is just a alpha version, used only for validation.
+A simple implementation of heatmap regression for hand detection. We won't release pre-precessing and post-precessing code now. Free to prepare your own datasets. Again, it is just an alpha version, used only for validation. Try to play with it.
 
 # Testing
 ```bash
