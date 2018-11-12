@@ -10,9 +10,9 @@ python test.py
 We provide a few test pictures and results. You can replace with your own test images.
 
 <div align="left">
-  <img src="https://github.com/haofanwang/mxnet-Hand-Detection/blob/master/test_images/part_nophone_face_infrared_20180425_152242_0505_mifei.png_2_1.png" width="380"><br><br>
+  <img src="https://github.com/haofanwang/mxnet-Hand-Detection/blob/master/test_images/part_nophone_face_infrared_20180425_152242_0505_mifei.png_2_1.png" width="64"><br><br>
 </div>
 
 <div align="right">
-  <img src=https://github.com/haofanwang/mxnet-Hand-Detection/blob/master/test_results/part_nophone_face_infrared_20180425_152242_0505_mifei.png_2_1.png" width="380"><br><br>
+  <img src=https://github.com/haofanwang/mxnet-Hand-Detection/blob/master/test_results /part_nophone_face_infrared_20180425_152242_0505_mifei.png_2_1.png" width="64"><br><br>
 </div>
